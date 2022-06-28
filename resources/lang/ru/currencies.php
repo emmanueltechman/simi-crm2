@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Код валюты - ISO',
+'symbol'=>'Символ',
+'rate'=>'Обменный курс',
+'rate_info'=>'Обменный курс должен быть больше 0, По умолчанию оставить 1',
+'thousand_sep'=>'Разделитель тысяч',
+'decimal_sep'=>'Десятичный разделитель',
+'precision_point'=>'Точность Точка',
+'symbol_position'=>'Положение символа',
+'currencies'=>'валюты',
+'currency'=>'валюта',
+'left'=>'Осталось',
+'right'=>'Правильно',
+'currency_exchange'=>'Обмен валют',
+'currency_exchange_title'=>'Автоматическое обновление курсов валют',
+'exchange_api'=>'Exchange API Key',
+'base_currency'=>'Базовая конверсионная валюта (ISO)',
+'api_end_point'=>'Конечная точка API',
+'enable_exchange'=>'Включить обмен',
+];

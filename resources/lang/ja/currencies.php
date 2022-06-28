@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'通貨コード-ISO',
+'symbol'=>'シンボル',
+'rate'=>'為替レート',
+'rate_info'=>'為替レートは0より大きく、デフォルトは1のままにしてください',
+'thousand_sep'=>'サウザンドセパレーター',
+'decimal_sep'=>'小数点区切り',
+'precision_point'=>'精密ポイント',
+'symbol_position'=>'シンボルの位置',
+'currencies'=>'通貨',
+'currency'=>'通貨',
+'left'=>'左',
+'right'=>'正しい',
+'currency_exchange'=>'為替',
+'currency_exchange_title'=>'自動為替レートの更新',
+'exchange_api'=>'Exchange APIキー',
+'base_currency'=>'基本変換通貨（ISO）',
+'api_end_point'=>'APIエンドポイント',
+'enable_exchange'=>'Exchangeを有効にする',
+];

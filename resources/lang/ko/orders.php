@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'청구일',
+'invoiceduedate'=>'마감일',
+'orders'=>'명령',
+'order'=>'주문',
+'general_bills'=>'일반 청구서',
+'credit_notes'=>'크레딧 노트',
+'credit_note'=>'신용 노트',
+'credit_notes_create'=>'대변 ​​메모 작성',
+'credit_notes_manage'=>'대변 ​​메모 관리',
+'credit_notes_properties'=>'대변 ​​메모 속성',
+'credit_note_refund'=>'환불 크레딧 노트',
+'notification'=>'공고',
+'stock_return'=>'재고 반품',
+'stock_returns'=>'재고 반품',
+'stock_return_create'=>'재고 반품 생성',
+'stock_return_manage'=>'재고 반품 관리',
+'stock_return_properties'=>'주식 반품 속성',
+'stock_return_refund'=>'환불 재고 반품',
+'stock_return_customer'=>'재고 반품 (고객)',
+];

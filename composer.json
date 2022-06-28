@@ -1,0 +1,25 @@
+{
+    "name": "ultimatekode/rosebiller",
+    "type": "project",
+    "description": "Rose Billing Management",
+    "keywords": [
+        "Billing",
+        "CRM"
+    ],
+    "license": "Copyright - UltimateKode.com",
+    "require": {
+        "nwidart/laravel-modules": "^8.2",
+        "spatie/browsershot": "^3.41"
+    },
+    "autoload": {
+        "psr-4": {
+        "App\\": "app/",
+	    "Modules\\": "Modules/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

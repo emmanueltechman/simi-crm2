@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Pagbebenta',
+'stock'=>'Stock Manager',
+'crm'=>'CRM',
+'project_tasks'=>'Mga Proyekto at Gawain',
+'project_management'=>'Pamamahala ng Proyekto',
+'tasks_management'=>'Pamamahala ng Mga Gawain',
+'promo'=>'Promo Manager',
+'misc'=>'Iba"t-ibang',
+'calendar'=>'Kalendaryo',
+'reports'=>'Mga Data at Ulat',
+'import'=>'Mag-import ng Data',
+'export'=>'Data ng I-export',
+'transactions'=>'Mga Transaksyon ng Tagapamahala',
+'small'=>'Maliit na Pangkat - 3 Gumagamit',
+'mid'=>'Mid Team - 10 Mga Gumagamit',
+'big'=>'Malaking Koponan - Walang limitasyong mga Gumagamit',
+'hrm'=>'HRM',
+];

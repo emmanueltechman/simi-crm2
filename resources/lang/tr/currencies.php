@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Para Birimi Kodu - ISO',
+'symbol'=>'sembol',
+'rate'=>'Döviz kuru',
+'rate_info'=>'Döviz Kuru 0"dan büyük olmalı, Varsayılan izin 1',
+'thousand_sep'=>'Binlik Ayırıcı',
+'decimal_sep'=>'Ondalık Ayırıcı',
+'precision_point'=>'Hassasiyet Noktası',
+'symbol_position'=>'Sembol Konumu',
+'currencies'=>'Kurlar',
+'currency'=>'Para birimi',
+'left'=>'Ayrıldı',
+'right'=>'Sağ',
+'currency_exchange'=>'Döviz değişimi',
+'currency_exchange_title'=>'Otomatik Döviz Kuru Güncelleme',
+'exchange_api'=>'Exchange API Anahtarı',
+'base_currency'=>'Temel Dönüşüm Para Birimi (ISO)',
+'api_end_point'=>'API Bitiş Noktası',
+'enable_exchange'=>'Değişimi Etkinleştir',
+];

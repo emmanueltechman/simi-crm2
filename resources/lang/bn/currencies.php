@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'মুদ্রার কোড - আইএসও',
+'symbol'=>'প্রতীক',
+'rate'=>'বিনিময় হার',
+'rate_info'=>'বিনিময় হার অবশ্যই 0 এর চেয়ে বেশি হতে হবে, ডিফল্ট ছাড়ুন 1 1',
+'thousand_sep'=>'হাজার বিভাজক',
+'decimal_sep'=>'দশমিক বিভাজক',
+'precision_point'=>'যথার্থ পয়েন্ট',
+'symbol_position'=>'প্রতীক অবস্থান',
+'currencies'=>'মুদ্রা',
+'currency'=>'মুদ্রা',
+'left'=>'বাম',
+'right'=>'অধিকার',
+'currency_exchange'=>'মুদ্রা বিনিময়',
+'currency_exchange_title'=>'স্বয়ংক্রিয় মুদ্রা বিনিময় হার আপডেট',
+'exchange_api'=>'এক্সচেঞ্জ API কী',
+'base_currency'=>'বেস রূপান্তর মুদ্রা (আইএসও)',
+'api_end_point'=>'এপিআই শেষ পয়েন্ট',
+'enable_exchange'=>'এক্সচেঞ্জ সক্ষম করুন',
+];

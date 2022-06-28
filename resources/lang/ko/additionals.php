@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'이름',
+'value'=>'% 값',
+'class'=>'유형',
+'type1'=>'계산 유형 1',
+'type2'=>'계산 유형 2',
+'type3'=>'계산 유형 3',
+'additionals'=>'세금 및 할인',
+'additional'=>'세금 및 할인',
+'tax_discount'=>'세금 및 할인',
+'discount'=>'할인',
+'flat'=>'플랫',
+'b_flat'=>'납세 전 납작',
+'b_per'=>'세금 전 %',
+'inclusive'=>'포함한',
+'exclusive'=>'독특한',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'balita',
+'invoicedate'=>'Petsa ng Bill',
+'invoiceduedate'=>'Takdang petsa',
+'orders'=>'Mga Utos',
+'order'=>'Order',
+'general_bills'=>'Mga Pangkalahatang kuwenta',
+'credit_notes'=>'Mga Tala sa Kredito',
+'credit_note'=>'Tala ng Kredito',
+'credit_notes_create'=>'Lumikha ng Tala ng Kredito',
+'credit_notes_manage'=>'Pamahalaan ang Mga Tala sa Kredito',
+'credit_notes_properties'=>'Mga Katangian ng Credit Note',
+'credit_note_refund'=>'I-refund ang Tala ng Credit',
+'notification'=>'Abiso',
+'stock_return'=>'Bumalik ang Stock',
+'stock_returns'=>'Pagbabalik ng Stock',
+'stock_return_create'=>'Lumikha ng Stock Return',
+'stock_return_manage'=>'Pamahalaan ang Pagbabalik ng Stock',
+'stock_return_properties'=>'Mga Katangian sa Pagbabalik sa Stock',
+'stock_return_refund'=>'I-refund ang Return Return',
+'stock_return_customer'=>'Bumalik ang Stock (Customer)',
+];

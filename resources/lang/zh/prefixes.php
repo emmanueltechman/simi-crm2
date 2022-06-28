@@ -1,0 +1,19 @@
+<?php
+return [
+'class'=>'类',
+'module'=>'模组',
+'value'=>'值',
+'note'=>'注意',
+'prefixes'=>'前缀',
+'prefix'=>'字首',
+'invoice'=>'发票',
+'delivery_note'=>'送货单',
+'proforma_invoice'=>'形式发票',
+'payment_receipt'=>'付款收据',
+'quotes'=>'行情',
+'subscriptions'=>'订阅内容',
+'credit_note'=>'信用票据',
+'stock_return'=>'股票退货',
+'purchase_order'=>'采购订单',
+'POS'=>'POS销售点',
+];

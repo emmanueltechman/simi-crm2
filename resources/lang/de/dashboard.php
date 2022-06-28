@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Instrumententafel',
+'today_invoices'=>'Heute Rechnungen',
+'month_invoices'=>'Diesen Monat Rechnungen',
+'today_sales'=>'Heute Vertrieb',
+'month_sales'=>'Diesen Monat Umsatz',
+'sales_invoice_graph'=>'GRAFISCHE DARSTELLUNG VON RECHNUNGEN UND VERKÄUFEN IN DEN LETZTEN 30 TAGEN',
+'recent_buyers'=>'LETZTE KÄUFER',
+'today_income'=>'Heute Einkommen',
+'today_expenses'=>'Heute Ausgaben',
+'today_profit'=>'Heute Gewinn',
+'today_revenue'=>'Heute Umsatz',
+'recent_invoices'=>'JÜNGSTE RECHNUNGEN',
+'income_vs_expenses'=>'Einnahmen gegen Ausgaben',
+'task_manager'=>'Taskmanager',
+'cash_flow'=>'Bargeldumlauf',
+'cash_flow_graph'=>'GRAFISCHE DARSTELLUNG VON CashFlow IN DEN LETZTEN 30 TAGEN',
+'recent'=>'Kürzlich',
+'stock_alert'=>'Stock Alert',
+'recent_transactions'=>'kürzliche Transaktionen',
+];

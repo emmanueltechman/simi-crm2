@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'Bill Date',
+'invoiceduedate'=>'Due Date',
+'orders'=>'Orders',
+'order'=>'Order',
+'general_bills'=>'General Bills',
+'credit_notes'=>'Credit Notes',
+'credit_note'=>'Credit Note',
+'credit_notes_create'=>'Create Credit Note',
+'credit_notes_manage'=>'Manage Credit Notes',
+'credit_notes_properties'=>'Credit Note Properties',
+'credit_note_refund'=>'Refund Credit Note',
+'notification'=>'Notification',
+'stock_return'=>'Stock Return',
+'stock_returns'=>'Stock Returns',
+'stock_return_create'=>'Create Stock Return',
+'stock_return_manage'=>'Manage Stock Return',
+'stock_return_properties'=>'Stock Return Properties',
+'stock_return_refund'=>'Refund Stock Return',
+'stock_return_customer'=>'Stock Return (Customer)',
+];

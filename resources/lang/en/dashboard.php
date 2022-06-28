@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Dashboard',
+'today_invoices'=>'Today Invoices',
+'month_invoices'=>'This Month Invoices',
+'today_sales'=>'Today Sales',
+'month_sales'=>'This Month Sales',
+'sales_invoice_graph'=>'GRAPHICAL PRESENTATION OF INVOICES AND SALES DONE IN LAST 30 DAYS',
+'recent_buyers'=>'RECENT BUYERS',
+'today_income'=>'Today Income',
+'today_expenses'=>'Today Expenses',
+'today_profit'=>'Today Profit',
+'today_revenue'=>'Today Revenue',
+'recent_invoices'=>'RECENT INVOICES',
+'income_vs_expenses'=>'Income vs Expenses',
+'task_manager'=>'Task Manager',
+'cash_flow'=>'Cash Flow',
+'cash_flow_graph'=>'GRAPHICAL PRESENTATION OF CashFlow DONE IN LAST 30 DAYS',
+'recent'=>'Recent',
+'stock_alert'=>'Stock Alert',
+'recent_transactions'=>'Recent Transactions',
+];

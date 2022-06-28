@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Cod valutar - ISO',
+'symbol'=>'Simbol',
+'rate'=>'Rata de schimb',
+'rate_info'=>'Rata de schimb trebuie să fie mai mare de 0, concediu implicit 1',
+'thousand_sep'=>'Separator de mii',
+'decimal_sep'=>'Separator zecimal',
+'precision_point'=>'Punctul de precizie',
+'symbol_position'=>'Poziția simbolului',
+'currencies'=>'valute',
+'currency'=>'Valută',
+'left'=>'Stânga',
+'right'=>'Dreapta',
+'currency_exchange'=>'Schimb valutar',
+'currency_exchange_title'=>'Actualizare automată a cursului de schimb valutar',
+'exchange_api'=>'Cheia API Exchange',
+'base_currency'=>'Moneda de conversie de bază (ISO)',
+'api_end_point'=>'Punct final API',
+'enable_exchange'=>'Activați Exchange',
+];

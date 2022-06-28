@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Currency Code - ISO',
+'symbol'=>'Symbol',
+'rate'=>'Exchange Rate',
+'rate_info'=>'Exchange Rate must be greater than 0, Default leave 1',
+'thousand_sep'=>'Thousand Separator',
+'decimal_sep'=>'Decimal Separator',
+'precision_point'=>'Precision Point',
+'symbol_position'=>'Symbol Position',
+'currencies'=>'Currencies',
+'currency'=>'Currency',
+'left'=>'Left',
+'right'=>'Right',
+'currency_exchange'=>'Currency Exchange',
+'currency_exchange_title'=>'Automated Currency Exchange Rates Update',
+'exchange_api'=>'Exchange API Key',
+'base_currency'=>'Base Conversion Currency (ISO)',
+'api_end_point'=>'API End Point',
+'enable_exchange'=>'Enable Exchange',
+];

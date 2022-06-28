@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'Nombre',
+'value'=>'Valor en%',
+'class'=>'Tipo',
+'type1'=>'Cálculo tipo 1',
+'type2'=>'Cálculo tipo 2',
+'type3'=>'Tipo de cálculo 3',
+'additionals'=>'Impuestos y descuentos',
+'additional'=>'Impuestos y descuentos',
+'tax_discount'=>'Impuestos y descuentos',
+'discount'=>'Descuento',
+'flat'=>'Plano',
+'b_flat'=>'Plano antes de impuestos',
+'b_per'=>'% Antes de impuestos',
+'inclusive'=>'Inclusivo',
+'exclusive'=>'Exclusivo',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

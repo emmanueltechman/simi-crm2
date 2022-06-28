@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'Fecha de pago',
+'invoiceduedate'=>'Fecha de vencimiento',
+'orders'=>'Pedidos',
+'order'=>'Orden',
+'general_bills'=>'Cuentas generales',
+'credit_notes'=>'Notas de credito',
+'credit_note'=>'Nota de crédito',
+'credit_notes_create'=>'Crear nota de crédito',
+'credit_notes_manage'=>'Administrar notas de crédito',
+'credit_notes_properties'=>'Propiedades de nota de crédito',
+'credit_note_refund'=>'Nota de reembolso de crédito',
+'notification'=>'Notificación',
+'stock_return'=>'Devolución de stock',
+'stock_returns'=>'Rendimientos de las acciones',
+'stock_return_create'=>'Crear devolución de stock',
+'stock_return_manage'=>'Gestionar devolución de stock',
+'stock_return_properties'=>'Propiedades de devolución de stock',
+'stock_return_refund'=>'Devolución de stock de devolución',
+'stock_return_customer'=>'Devolución de stock (cliente)',
+];

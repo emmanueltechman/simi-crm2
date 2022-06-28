@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'Tanggal tagihan',
+'invoiceduedate'=>'Batas tanggal terakhir',
+'orders'=>'Pesanan',
+'order'=>'Memesan',
+'general_bills'=>'Tagihan Umum',
+'credit_notes'=>'Catatan kredit',
+'credit_note'=>'Nota kredit',
+'credit_notes_create'=>'Buat Catatan Kredit',
+'credit_notes_manage'=>'Kelola Catatan Kredit',
+'credit_notes_properties'=>'Properti Catatan Kredit',
+'credit_note_refund'=>'Pengembalian Uang Kertas',
+'notification'=>'Pemberitahuan',
+'stock_return'=>'Pengembalian Stok',
+'stock_returns'=>'Pengembalian Stok',
+'stock_return_create'=>'Buat Pengembalian Saham',
+'stock_return_manage'=>'Kelola Pengembalian Stok',
+'stock_return_properties'=>'Properti Pengembalian Stok',
+'stock_return_refund'=>'Pengembalian Modal Saham',
+'stock_return_customer'=>'Pengembalian Stok (Pelanggan)',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'仪表板',
+'today_invoices'=>'今日发票',
+'month_invoices'=>'本月发票',
+'today_sales'=>'今日销售',
+'month_sales'=>'本月销售',
+'sales_invoice_graph'=>'最近30天内完成的发票和销售的图形表示',
+'recent_buyers'=>'近期买家',
+'today_income'=>'今日收入',
+'today_expenses'=>'今日费用',
+'today_profit'=>'今日获利',
+'today_revenue'=>'今日收益',
+'recent_invoices'=>'最近的发票',
+'income_vs_expenses'=>'收入与支出',
+'task_manager'=>'任务管理器',
+'cash_flow'=>'现金周转',
+'cash_flow_graph'=>'最近30天完成的现金流量的图形表示',
+'recent'=>'最近',
+'stock_alert'=>'库存警报',
+'recent_transactions'=>'最近交易',
+];

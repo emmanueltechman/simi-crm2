@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Der Umsatz',
+'stock'=>'Lagerleiter',
+'crm'=>'CRM',
+'project_tasks'=>'Projekt & Aufgaben',
+'project_management'=>'Projektmanagement',
+'tasks_management'=>'Aufgabenverwaltung',
+'promo'=>'Promo Manager',
+'misc'=>'Sonstiges',
+'calendar'=>'Kalender',
+'reports'=>'Daten & Berichte',
+'import'=>'Daten importieren',
+'export'=>'Export von Daten',
+'transactions'=>'Transaktionsmanager',
+'small'=>'Kleines Team - 3 Benutzer',
+'mid'=>'Mittleres Team - 10 Benutzer',
+'big'=>'Großes Team - Unbegrenzte Benutzer',
+'hrm'=>'HRM',
+];

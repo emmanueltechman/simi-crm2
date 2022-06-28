@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Dashboard',
+'today_invoices'=>'Invois Dina iki',
+'month_invoices'=>'Invois Wulan Iki',
+'today_sales'=>'Sales saiki',
+'month_sales'=>'Penjualan Wulan Iki',
+'sales_invoice_graph'=>'PRESENTASI GRAPHIK INVOIKES lan SALES ING ING Pungkasan 30 HARI',
+'recent_buyers'=>'PEMBANGKU TANPA',
+'today_income'=>'Penghasilan Dina iki',
+'today_expenses'=>'Biaya Dina iki',
+'today_profit'=>'Bathi saiki',
+'today_revenue'=>'Revenue Dina iki',
+'recent_invoices'=>'RECENT INVOICES',
+'income_vs_expenses'=>'Pendhaftaran vs Perbelanjaan',
+'task_manager'=>'Tugas Manager',
+'cash_flow'=>'Aliran Awis',
+'cash_flow_graph'=>'PRESENTASI GRATISALING KANGGO ING ING Pungkasan 30 HARI',
+'recent'=>'Paling Anyar',
+'stock_alert'=>'Tandha Simpenan',
+'recent_transactions'=>'Transaksi Paling Anyar',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'계기반',
+'today_invoices'=>'오늘 송장',
+'month_invoices'=>'이번 달 송장',
+'today_sales'=>'오늘 영업',
+'month_sales'=>'이번 달 판매',
+'sales_invoice_graph'=>'지난 30 일 동안 청구서 및 판매 내역이 그래픽으로 표시됨',
+'recent_buyers'=>'최근 구매자',
+'today_income'=>'오늘 소득',
+'today_expenses'=>'오늘 경비',
+'today_profit'=>'오늘 이익',
+'today_revenue'=>'오늘 수익',
+'recent_invoices'=>'최근 인보이스',
+'income_vs_expenses'=>'수입 vs 비용',
+'task_manager'=>'작업 관리자',
+'cash_flow'=>'현금 흐름',
+'cash_flow_graph'=>'지난 30 일 동안 CashFlow의 그래픽 표현',
+'recent'=>'충적세',
+'stock_alert'=>'주식 경고',
+'recent_transactions'=>'최근 거래',
+];

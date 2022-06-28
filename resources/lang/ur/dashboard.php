@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'ڈیش بورڈ',
+'today_invoices'=>'آج کی رسیدیں',
+'month_invoices'=>'اس مہینے کی رسیدیں',
+'today_sales'=>'آج سیلز',
+'month_sales'=>'اس ماہ کی فروخت',
+'sales_invoice_graph'=>'گذشتہ 30 دن میں انوائسز اور سیلز کے کام کی گرافیکل پیشی',
+'recent_buyers'=>'حالیہ خریدار',
+'today_income'=>'آج کی آمدنی',
+'today_expenses'=>'آج کے اخراجات',
+'today_profit'=>'آج کا منافع',
+'today_revenue'=>'آج کا محصول',
+'recent_invoices'=>'حالیہ انوائسز',
+'income_vs_expenses'=>'آمدنی بمقابلہ اخراجات',
+'task_manager'=>'ٹاسک مینیجر',
+'cash_flow'=>'کیش فلو',
+'cash_flow_graph'=>'آخری 30 دنوں میں کیش فلو کام کی گرافیکل پیشی',
+'recent'=>'حالیہ',
+'stock_alert'=>'اسٹاک الرٹ',
+'recent_transactions'=>'حالیہ لین دین',
+];

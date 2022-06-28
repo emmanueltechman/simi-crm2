@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Tablou de bord',
+'today_invoices'=>'Astăzi Facturi',
+'month_invoices'=>'Luna aceasta facturi',
+'today_sales'=>'Astăzi Vânzări',
+'month_sales'=>'Vânzările din această lună',
+'sales_invoice_graph'=>'PREZENTAREA GRAFICĂ A FACTURILOR ȘI VÂNZĂRILOR FĂCUTE ÎN ULTIMILE 30 DE ZILE',
+'recent_buyers'=>'CUMPĂRĂTORI RECENTI',
+'today_income'=>'Astăzi Venit',
+'today_expenses'=>'Astăzi Cheltuieli',
+'today_profit'=>'Azi Profit',
+'today_revenue'=>'Astăzi Venituri',
+'recent_invoices'=>'FACTURI RECENTE',
+'income_vs_expenses'=>'Venit vs cheltuieli',
+'task_manager'=>'Gestionar de sarcini',
+'cash_flow'=>'Fluxul de numerar',
+'cash_flow_graph'=>'PREZENTAREA GRAFICĂ A CashFlow FĂCUT ÎN ULTIMILE 30 DE ZILE',
+'recent'=>'Recent',
+'stock_alert'=>'Alertă stoc',
+'recent_transactions'=>'tranzactii recente',
+];

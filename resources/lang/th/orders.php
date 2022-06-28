@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'Tid',
+'invoicedate'=>'วันที่เรียกเก็บเงิน',
+'invoiceduedate'=>'วันที่ครบกำหนด',
+'orders'=>'สั่งซื้อ',
+'order'=>'ใบสั่ง',
+'general_bills'=>'ตั๋วเงินทั่วไป',
+'credit_notes'=>'ใบลดหนี้',
+'credit_note'=>'ใบลดหนี้',
+'credit_notes_create'=>'สร้างใบลดหนี้',
+'credit_notes_manage'=>'จัดการบันทึกเครดิต',
+'credit_notes_properties'=>'เครดิตหมายเหตุคุณสมบัติ',
+'credit_note_refund'=>'หมายเหตุเครดิตการคืนเงิน',
+'notification'=>'การแจ้งเตือน',
+'stock_return'=>'คืนสินค้า',
+'stock_returns'=>'คืนสินค้า',
+'stock_return_create'=>'สร้างการคืนสินค้า',
+'stock_return_manage'=>'จัดการการคืนสินค้า',
+'stock_return_properties'=>'คุณสมบัติการคืนสินค้า',
+'stock_return_refund'=>'คืนเงินคืนสินค้า',
+'stock_return_customer'=>'คืนสินค้า (ลูกค้า)',
+];

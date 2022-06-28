@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Währungscode - ISO',
+'symbol'=>'Symbol',
+'rate'=>'Tauschrate',
+'rate_info'=>'Wechselkurs muss größer als 0 sein, Standardurlaub 1',
+'thousand_sep'=>'Tausend Separator',
+'decimal_sep'=>'Dezimaltrennzeichen',
+'precision_point'=>'Präzisionspunkt',
+'symbol_position'=>'Symbolposition',
+'currencies'=>'Währungen',
+'currency'=>'Währung',
+'left'=>'Links',
+'right'=>'Richtig',
+'currency_exchange'=>'Geldwechsel',
+'currency_exchange_title'=>'Automatische Aktualisierung der Wechselkurse',
+'exchange_api'=>'Exchange-API-Schlüssel',
+'base_currency'=>'Basisumrechnungswährung (ISO)',
+'api_end_point'=>'API-Endpunkt',
+'enable_exchange'=>'Exchange aktivieren',
+];

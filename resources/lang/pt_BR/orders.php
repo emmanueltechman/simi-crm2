@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'arrumar',
+'invoicedate'=>'Data da conta',
+'invoiceduedate'=>'Data de Vencimento',
+'orders'=>'Encomendas',
+'order'=>'Ordem',
+'general_bills'=>'Contas Gerais',
+'credit_notes'=>'Notas de credito',
+'credit_note'=>'Nota de crédito',
+'credit_notes_create'=>'Criar nota de crédito',
+'credit_notes_manage'=>'Gerenciar notas de crédito',
+'credit_notes_properties'=>'Propriedades da nota de crédito',
+'credit_note_refund'=>'Nota de crédito de reembolso',
+'notification'=>'Notificação',
+'stock_return'=>'Retorno das ações',
+'stock_returns'=>'Devoluções de estoque',
+'stock_return_create'=>'Criar devolução de estoque',
+'stock_return_manage'=>'Gerenciar retorno de estoque',
+'stock_return_properties'=>'Propriedades de devolução de estoque',
+'stock_return_refund'=>'Restituição de estoque de reembolso',
+'stock_return_customer'=>'Retorno de estoque (cliente)',
+];

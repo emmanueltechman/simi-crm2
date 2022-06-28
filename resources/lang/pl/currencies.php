@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Kod waluty - ISO',
+'symbol'=>'Symbol',
+'rate'=>'Kurs wymiany',
+'rate_info'=>'Kurs wymiany musi być większy niż 0, domyślny urlop 1',
+'thousand_sep'=>'Tysiąc separatorów',
+'decimal_sep'=>'Separator liczb dziesiętnych',
+'precision_point'=>'Punkt precyzyjny',
+'symbol_position'=>'Pozycja symbolu',
+'currencies'=>'Waluty',
+'currency'=>'Waluta',
+'left'=>'Lewo',
+'right'=>'Dobrze',
+'currency_exchange'=>'Wymiana walut',
+'currency_exchange_title'=>'Automatyczna aktualizacja kursów wymiany walut',
+'exchange_api'=>'Wymień klucz API',
+'base_currency'=>'Podstawowa waluta konwersji (ISO)',
+'api_end_point'=>'Punkt końcowy interfejsu API',
+'enable_exchange'=>'Włącz wymianę',
+];

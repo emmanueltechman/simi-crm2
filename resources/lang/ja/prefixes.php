@@ -1,0 +1,19 @@
+<?php
+return [
+'class'=>'クラス',
+'module'=>'モジュール',
+'value'=>'値',
+'note'=>'注意',
+'prefixes'=>'プレフィックス',
+'prefix'=>'プレフィックス',
+'invoice'=>'請求書',
+'delivery_note'=>'納品書',
+'proforma_invoice'=>'プロフォーマインボイス',
+'payment_receipt'=>'お支払いの領収書',
+'quotes'=>'引用',
+'subscriptions'=>'サブスクリプション',
+'credit_note'=>'クレジットノート',
+'stock_return'=>'返品',
+'purchase_order'=>'注文書',
+'POS'=>'POS販売時点情報管理',
+];

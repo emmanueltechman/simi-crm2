@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'Ngày thanh toán',
+'invoiceduedate'=>'Ngày đáo hạn',
+'orders'=>'Đơn đặt hàng',
+'order'=>'Đặt hàng',
+'general_bills'=>'Hóa đơn chung',
+'credit_notes'=>'Ghi chú tín dụng',
+'credit_note'=>'Ghi chú tín dụng',
+'credit_notes_create'=>'Tạo ghi chú tín dụng',
+'credit_notes_manage'=>'Quản lý ghi chú tín dụng',
+'credit_notes_properties'=>'Thuộc tính ghi chú tín dụng',
+'credit_note_refund'=>'Ghi chú tín dụng hoàn tiền',
+'notification'=>'Thông báo',
+'stock_return'=>'Trả lại cổ phiếu',
+'stock_returns'=>'Lợi nhuận cổ phiếu',
+'stock_return_create'=>'Tạo lợi nhuận chứng khoán',
+'stock_return_manage'=>'Quản lý lợi nhuận chứng khoán',
+'stock_return_properties'=>'Thuộc tính trả lại cổ phiếu',
+'stock_return_refund'=>'Hoàn trả cổ phiếu',
+'stock_return_customer'=>'Trả lại cổ phiếu (Khách hàng)',
+];

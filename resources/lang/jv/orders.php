@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'pasang',
+'invoicedate'=>'Tanggal Tanggal',
+'invoiceduedate'=>'Amarga Tanggal',
+'orders'=>'Pesenan',
+'order'=>'Pesenan',
+'general_bills'=>'Tagihan Umum',
+'credit_notes'=>'Cathetan Kredit',
+'credit_note'=>'Cathetan Kredit',
+'credit_notes_create'=>'Gawe Cathetan Kredit',
+'credit_notes_manage'=>'Ngatur Cathetan Kredit',
+'credit_notes_properties'=>'Properti Cathetan Kredit',
+'credit_note_refund'=>'Mbalekno Cathetan Kredit',
+'notification'=>'Kabar',
+'stock_return'=>'Wangsul Saham',
+'stock_returns'=>'Returns Simpenan',
+'stock_return_create'=>'Gawe Return Stock',
+'stock_return_manage'=>'Ngatur Wangsul Saham',
+'stock_return_properties'=>'Properti Wangsul Saham',
+'stock_return_refund'=>'Wangsul Saham mbalek',
+'stock_return_customer'=>'Wangsul Saham (Pelanggan)',
+];

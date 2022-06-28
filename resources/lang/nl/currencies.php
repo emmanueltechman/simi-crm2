@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Valutacode - ISO',
+'symbol'=>'Symbool',
+'rate'=>'Wisselkoers',
+'rate_info'=>'Wisselkoers moet groter zijn dan 0, standaard verlof 1',
+'thousand_sep'=>'Duizend scheidingsteken',
+'decimal_sep'=>'Decimaalscheidingsteken',
+'precision_point'=>'Precisiepunt',
+'symbol_position'=>'Symboolpositie',
+'currencies'=>'Valuta"s',
+'currency'=>'Valuta',
+'left'=>'Links',
+'right'=>'Rechtsaf',
+'currency_exchange'=>'Wisselkantoor',
+'currency_exchange_title'=>'Geautomatiseerde wisselkoersupdate',
+'exchange_api'=>'Exchange API-sleutel',
+'base_currency'=>'Basisconversievaluta (ISO)',
+'api_end_point'=>'API-eindpunt',
+'enable_exchange'=>'Schakel Exchange in',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'خبر',
+'invoicedate'=>'بل تاریخ',
+'invoiceduedate'=>'اخری تاریخ',
+'orders'=>'احکامات',
+'order'=>'ترتیب',
+'general_bills'=>'جنرل بل',
+'credit_notes'=>'قرضے کی پرچیان',
+'credit_note'=>'کریڈٹ نوٹ',
+'credit_notes_create'=>'کریڈٹ نوٹ بنائیں',
+'credit_notes_manage'=>'کریڈٹ نوٹ کا نظم کریں',
+'credit_notes_properties'=>'کریڈٹ نوٹ کی خصوصیات',
+'credit_note_refund'=>'رقم کی واپسی کا کریڈٹ نوٹ',
+'notification'=>'اطلاع',
+'stock_return'=>'اسٹاک ریٹرن',
+'stock_returns'=>'اسٹاک ریٹرنس',
+'stock_return_create'=>'اسٹاک ریٹرن بنائیں',
+'stock_return_manage'=>'اسٹاک ریٹرن کا انتظام کریں',
+'stock_return_properties'=>'اسٹاک ریٹرن پراپرٹیز',
+'stock_return_refund'=>'رقم کی واپسی اسٹاک ریٹرن',
+'stock_return_customer'=>'اسٹاک ریٹرن (کسٹمر)',
+];

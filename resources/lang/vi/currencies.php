@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Mã tiền tệ - ISO',
+'symbol'=>'Biểu tượng',
+'rate'=>'Tỷ giá',
+'rate_info'=>'Tỷ giá hối đoái phải lớn hơn 0, Nghỉ mặc định 1',
+'thousand_sep'=>'Hàng ngàn máy tách',
+'decimal_sep'=>'Phân số thập phân',
+'precision_point'=>'Điểm chính xác',
+'symbol_position'=>'Vị trí biểu tượng',
+'currencies'=>'Tiền tệ',
+'currency'=>'Tiền tệ',
+'left'=>'Trái',
+'right'=>'Đúng',
+'currency_exchange'=>'Thu đổi ngoại tệ',
+'currency_exchange_title'=>'Cập nhật tỷ giá hối đoái tự động',
+'exchange_api'=>'Trao đổi khóa API',
+'base_currency'=>'Tiền tệ chuyển đổi cơ sở (ISO)',
+'api_end_point'=>'Điểm cuối API',
+'enable_exchange'=>'Kích hoạt trao đổi',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'टीआईडी',
+'invoicedate'=>'बिल की तिथि',
+'invoiceduedate'=>'नियत तारीख',
+'orders'=>'आदेश',
+'order'=>'गण',
+'general_bills'=>'सामान्य बिल',
+'credit_notes'=>'उधारी पर्ची',
+'credit_note'=>'क्रेडिट नोट',
+'credit_notes_create'=>'क्रडिट नोट बनाएँ',
+'credit_notes_manage'=>'क्रेडिट नोट्स प्रबंधित करें',
+'credit_notes_properties'=>'क्रेडिट नोट गुण',
+'credit_note_refund'=>'धन वापसी नोट',
+'notification'=>'अधिसूचना',
+'stock_return'=>'शेयर की वापसी',
+'stock_returns'=>'शेयर रिटर्न',
+'stock_return_create'=>'स्टॉक रिटर्न बनाएँ',
+'stock_return_manage'=>'स्टॉक रिटर्न का प्रबंधन करें',
+'stock_return_properties'=>'स्टॉक रिटर्न गुण',
+'stock_return_refund'=>'रिफंड स्टॉक रिटर्न',
+'stock_return_customer'=>'स्टॉक रिटर्न (ग्राहक)',
+];

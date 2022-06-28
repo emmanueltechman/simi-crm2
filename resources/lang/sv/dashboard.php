@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'instrumentbräda',
+'today_invoices'=>'Idag Fakturor',
+'month_invoices'=>'Denna månad fakturor',
+'today_sales'=>'Idag försäljning',
+'month_sales'=>'Denna månad försäljning',
+'sales_invoice_graph'=>'GRAFISK PRESENTATION AV FAKTORER OCH FÖRSÄLJNING GJÄRDT SENASTE 30 DAGAR',
+'recent_buyers'=>'NYA KÖPARE',
+'today_income'=>'Idag inkomst',
+'today_expenses'=>'Dagens utgifter',
+'today_profit'=>'Vinsten idag',
+'today_revenue'=>'Idag Intäkter',
+'recent_invoices'=>'NYA FAKTURER',
+'income_vs_expenses'=>'Inkomster kontra utgifter',
+'task_manager'=>'Aktivitetshanteraren',
+'cash_flow'=>'Pengaflöde',
+'cash_flow_graph'=>'GRAFISK PRESENTATION AV CashFlow GÖRT SIDAN 30 DAGAR',
+'recent'=>'Nyligen',
+'stock_alert'=>'Lagervarning',
+'recent_transactions'=>'Senaste transaktioner',
+];

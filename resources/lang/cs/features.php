@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Odbyt',
+'stock'=>'Skladový manažer',
+'crm'=>'CRM',
+'project_tasks'=>'Projekt a úkoly',
+'project_management'=>'Projektový management',
+'tasks_management'=>'Správa úkolů',
+'promo'=>'Promo Manager',
+'misc'=>'Smíšený',
+'calendar'=>'Kalendář',
+'reports'=>'Data a zprávy',
+'import'=>'Importovat data',
+'export'=>'Exportovat data',
+'transactions'=>'Správce transakcí',
+'small'=>'Malý tým - 3 uživatelé',
+'mid'=>'Střední tým - 10 uživatelů',
+'big'=>'Velký tým - neomezený počet uživatelů',
+'hrm'=>'HRM',
+];

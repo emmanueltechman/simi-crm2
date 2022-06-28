@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Kode mata uang - ISO',
+'symbol'=>'Simbul',
+'rate'=>'Tingkat Exchange',
+'rate_info'=>'Tingkat Exchange kudu luwih saka 0, Tilar standar 1',
+'thousand_sep'=>'Ewu Separator',
+'decimal_sep'=>'Separator Sepuluh',
+'precision_point'=>'Titik tliti',
+'symbol_position'=>'Posisi Simbol',
+'currencies'=>'Mata uang',
+'currency'=>'Dhuwit',
+'left'=>'Ngiwa',
+'right'=>'Bener',
+'currency_exchange'=>'Currency Exchange',
+'currency_exchange_title'=>'Update Exchange Exchange tarif otomatis',
+'exchange_api'=>'Kunci API Exchange',
+'base_currency'=>'Mata uang Konversi dhasar (ISO)',
+'api_end_point'=>'End End API',
+'enable_exchange'=>'Ngaktifake Exchange',
+];

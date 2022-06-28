@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'painel de controle',
+'today_invoices'=>'Faturas de hoje',
+'month_invoices'=>'Faturas deste mês',
+'today_sales'=>'Hoje Vendas',
+'month_sales'=>'Vendas deste mês',
+'sales_invoice_graph'=>'APRESENTAÇÃO GRÁFICA DE FATURAS E VENDAS REALIZADAS NOS ÚLTIMOS 30 DIAS',
+'recent_buyers'=>'COMPRADORES RECENTES',
+'today_income'=>'Hoje Renda',
+'today_expenses'=>'Despesas atuais',
+'today_profit'=>'Hoje Lucro',
+'today_revenue'=>'Hoje Receita',
+'recent_invoices'=>'FATURAS RECENTES',
+'income_vs_expenses'=>'Receitas vs Despesas',
+'task_manager'=>'Gerenciador de tarefas',
+'cash_flow'=>'Fluxo de caixa',
+'cash_flow_graph'=>'APRESENTAÇÃO GRÁFICA DO CashFlow FEITO NOS ÚLTIMOS 30 DIAS',
+'recent'=>'Recente',
+'stock_alert'=>'Alerta de ações',
+'recent_transactions'=>'Transações recentes',
+];

@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'Nama',
+'value'=>'Nilai dalam%',
+'class'=>'Tipe',
+'type1'=>'Tipe Perhitungan 1',
+'type2'=>'Tipe Perhitungan 2',
+'type3'=>'Jenis Perhitungan3',
+'additionals'=>'Pajak & Diskon',
+'additional'=>'Pajak & Diskon',
+'tax_discount'=>'Pajak & Diskon',
+'discount'=>'Diskon',
+'flat'=>'Datar',
+'b_flat'=>'Rata Sebelum Pajak',
+'b_per'=>'% Sebelum pajak',
+'inclusive'=>'Inklusif',
+'exclusive'=>'Eksklusif',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

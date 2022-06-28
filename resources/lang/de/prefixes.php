@@ -1,0 +1,19 @@
+<?php
+return [
+'class'=>'Klasse',
+'module'=>'Modul',
+'value'=>'Wert',
+'note'=>'Hinweis',
+'prefixes'=>'Präfixe',
+'prefix'=>'Präfix',
+'invoice'=>'Rechnung',
+'delivery_note'=>'Lieferschein',
+'proforma_invoice'=>'Proforma-Rechnung',
+'payment_receipt'=>'Zahlungsbeleg',
+'quotes'=>'Zitate',
+'subscriptions'=>'Abonnements',
+'credit_note'=>'Gutschrift',
+'stock_return'=>'Aktienrenditen',
+'purchase_order'=>'Bestellung',
+'POS'=>'POS-Verkaufsstelle',
+];

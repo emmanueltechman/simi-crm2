@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'ad',
+'value'=>'% Olarak değer',
+'class'=>'tip',
+'type1'=>'Hesaplama Tip 1',
+'type2'=>'Hesaplama Tip 2',
+'type3'=>'Hesaplama Türü3',
+'additionals'=>'Vergi ve İndirim',
+'additional'=>'Vergi ve İndirim',
+'tax_discount'=>'Vergi ve İndirim',
+'discount'=>'İndirim',
+'flat'=>'Düz',
+'b_flat'=>'VERGİ ÖNCESİ',
+'b_per'=>'% Vergi öncesi',
+'inclusive'=>'dahil',
+'exclusive'=>'seçkin',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

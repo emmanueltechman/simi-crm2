@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'کرنسی کا کوڈ - آئی ایس او',
+'symbol'=>'علامت',
+'rate'=>'زر مبادلہ کی شرح',
+'rate_info'=>'شرح تبادلہ 0 سے زیادہ ہونا ضروری ہے ، طے شدہ رخصت 1',
+'thousand_sep'=>'ہزار الگ کرنے والا',
+'decimal_sep'=>'اعشاریہ جدا کرنے والا',
+'precision_point'=>'پریسجن پوائنٹ',
+'symbol_position'=>'سمبل پوزیشن',
+'currencies'=>'کرنسیوں',
+'currency'=>'کرنسی',
+'left'=>'بائیں',
+'right'=>'ٹھیک ہے',
+'currency_exchange'=>'کرنسی کا تبادلہ',
+'currency_exchange_title'=>'خودکار کرنسی کے تبادلے کی قیمتوں میں تازہ کاری',
+'exchange_api'=>'ایکسچینج API کلید',
+'base_currency'=>'بیس تبادلوں کی کرنسی (آئی ایس او)',
+'api_end_point'=>'API کا اختتام نقطہ',
+'enable_exchange'=>'ایکسچینج کو قابل بنائیں',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'לוח מחוונים',
+'today_invoices'=>'היום חשבוניות',
+'month_invoices'=>'חשבוניות החודש',
+'today_sales'=>'מכירות היום',
+'month_sales'=>'מכירות בחודש זה',
+'sales_invoice_graph'=>'הצגה גרפית של חשבוניות ומכירות שנעשו במהלך 30 יום אחרונים',
+'recent_buyers'=>'קונים אחרונים',
+'today_income'=>'הכנסה היום',
+'today_expenses'=>'היום הוצאות',
+'today_profit'=>'היום רווח',
+'today_revenue'=>'הכנסות היום',
+'recent_invoices'=>'חשבוניות אחרונות',
+'income_vs_expenses'=>'הכנסה לעומת הוצאות',
+'task_manager'=>'מנהל משימות',
+'cash_flow'=>'תזרים מזומנים',
+'cash_flow_graph'=>'הצגה גרפית של Cashflow בוצע ב -30 הימים האחרונים',
+'recent'=>'לאחרונה',
+'stock_alert'=>'התראה במלאי',
+'recent_transactions'=>'תנועות אחרונות',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Code ng Pera - ISO',
+'symbol'=>'Simbolo',
+'rate'=>'Exchange Rate',
+'rate_info'=>'Ang rate ng Exchange ay dapat na malaki kaysa sa 0, Default leave 1',
+'thousand_sep'=>'Libong Separator',
+'decimal_sep'=>'Decimal Separator',
+'precision_point'=>'Titik ng Katumpakan',
+'symbol_position'=>'Posisyon ng Simbolo',
+'currencies'=>'Mga Pera',
+'currency'=>'Pera',
+'left'=>'Kaliwa',
+'right'=>'Tama',
+'currency_exchange'=>'Palitan ng pera',
+'currency_exchange_title'=>'Pag-update ng Mga rate ng Exchange ng Pera ng Pera',
+'exchange_api'=>'Exchange Key Key',
+'base_currency'=>'Salapi sa Pagbabago ng Base (ISO)',
+'api_end_point'=>'Ang End End ng API',
+'enable_exchange'=>'Paganahin ang Exchange',
+];

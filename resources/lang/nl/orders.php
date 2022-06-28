@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'netjes',
+'invoicedate'=>'Factuurdatum',
+'invoiceduedate'=>'Opleveringsdatum',
+'orders'=>'Bestellingen',
+'order'=>'Bestellen',
+'general_bills'=>'Algemene rekeningen',
+'credit_notes'=>'Kredietnota"s',
+'credit_note'=>'Kredietnota',
+'credit_notes_create'=>'Creditnota aanmaken',
+'credit_notes_manage'=>'Beheer creditnota"s',
+'credit_notes_properties'=>'Eigenschappen van creditnota"s',
+'credit_note_refund'=>'Creditnota terugbetalen',
+'notification'=>'Kennisgeving',
+'stock_return'=>'Voorraad retour',
+'stock_returns'=>'Voorraad retourneren',
+'stock_return_create'=>'Voorraadretour creëren',
+'stock_return_manage'=>'Voorraadretour beheren',
+'stock_return_properties'=>'Eigenschappen voor voorraadteruggave',
+'stock_return_refund'=>'Restitutie van voorraad',
+'stock_return_customer'=>'Voorraadretour (klant)',
+];

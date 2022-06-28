@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'ちょっと',
+'invoicedate'=>'請求日',
+'invoiceduedate'=>'期日',
+'orders'=>'ご注文',
+'order'=>'注文',
+'general_bills'=>'一般法案',
+'credit_notes'=>'クレジットノート',
+'credit_note'=>'クレジットノート',
+'credit_notes_create'=>'クレジットノートを作成',
+'credit_notes_manage'=>'クレジットノートを管理する',
+'credit_notes_properties'=>'クレジットノートのプロパティ',
+'credit_note_refund'=>'返金クレジットノート',
+'notification'=>'お知らせ',
+'stock_return'=>'ストックリターン',
+'stock_returns'=>'返品',
+'stock_return_create'=>'返品の作成',
+'stock_return_manage'=>'返品の管理',
+'stock_return_properties'=>'ストックリターンプロパティ',
+'stock_return_refund'=>'払い戻し返品',
+'stock_return_customer'=>'在庫返品（顧客）',
+];

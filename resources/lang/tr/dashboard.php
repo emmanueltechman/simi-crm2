@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Gösterge Paneli',
+'today_invoices'=>'Bugün Faturalar',
+'month_invoices'=>'Bu Ay Faturalar',
+'today_sales'=>'Bugün Satış',
+'month_sales'=>'Bu Ay Satışlar',
+'sales_invoice_graph'=>'SON 30 GÜNDE YAPILAN FATURALARIN VE SATIŞLARIN GRAFİK SUNUMU',
+'recent_buyers'=>'SON ALICILAR',
+'today_income'=>'Bugün Gelir',
+'today_expenses'=>'Bugünkü Giderler',
+'today_profit'=>'Bugün Kâr',
+'today_revenue'=>'Bugün Gelir',
+'recent_invoices'=>'SON FATURALAR',
+'income_vs_expenses'=>'Gelir ve Giderler',
+'task_manager'=>'Görev Yöneticisi',
+'cash_flow'=>'Nakit akımı',
+'cash_flow_graph'=>'SON 30 GÜNDE YAPILAN CashFlow"un GRAFİK SUNUMU',
+'recent'=>'Son',
+'stock_alert'=>'Stok Uyarısı',
+'recent_transactions'=>'Son İşlemler',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Přístrojová deska',
+'today_invoices'=>'Dnešní faktury',
+'month_invoices'=>'Faktury za tento měsíc',
+'today_sales'=>'Dnešní prodej',
+'month_sales'=>'Prodej za tento měsíc',
+'sales_invoice_graph'=>'GRAFICKÁ PREZENTACE FAKTURACÍ A PRODEJŮ UDĚLENÝCH NEŽ 30 DNÍ',
+'recent_buyers'=>'Nedávné kupující',
+'today_income'=>'Dnešní příjem',
+'today_expenses'=>'Dnešní výdaje',
+'today_profit'=>'Zisk dnes',
+'today_revenue'=>'Příjmy dnes',
+'recent_invoices'=>'AKTUÁLNÍ FAKTORY',
+'income_vs_expenses'=>'Příjmy vs. výdaje',
+'task_manager'=>'Správce úloh',
+'cash_flow'=>'Tok peněz',
+'cash_flow_graph'=>'GRAFICKÁ PREZENTACE CashFlow VYPLATENÁ NEŽ 30 DNÍ',
+'recent'=>'Nedávné',
+'stock_alert'=>'Výstraha skladu',
+'recent_transactions'=>'Poslední transakce',
+];

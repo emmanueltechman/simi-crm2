@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'تيد',
+'invoicedate'=>'تاريخ الفاتورة',
+'invoiceduedate'=>'تاريخ الاستحقاق',
+'orders'=>'الطلب #٪ s',
+'order'=>'طلب',
+'general_bills'=>'فواتير عامة',
+'credit_notes'=>'ملاحظات الائتمان',
+'credit_note'=>'اشعار دائن',
+'credit_notes_create'=>'إنشاء ملاحظة دائنة',
+'credit_notes_manage'=>'إدارة ملاحظات الائتمان',
+'credit_notes_properties'=>'خصائص مذكرة الائتمان',
+'credit_note_refund'=>'إشعار ائتمان برد الأموال',
+'notification'=>'تنبيه',
+'stock_return'=>'عودة الأسهم',
+'stock_returns'=>'إرجاع الأسهم',
+'stock_return_create'=>'إنشاء إرجاع الأسهم',
+'stock_return_manage'=>'إدارة إرجاع المخزون',
+'stock_return_properties'=>'خصائص إرجاع المخزون',
+'stock_return_refund'=>'استرداد المخزون المسترد',
+'stock_return_customer'=>'عائد المخزون (العميل)',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'TID',
+'invoicedate'=>'বিলের তারিখ',
+'invoiceduedate'=>'নির্দিষ্ট তারিখ',
+'orders'=>'অর্ডার',
+'order'=>'ক্রম',
+'general_bills'=>'জেনারেল বিল',
+'credit_notes'=>'ক্রেডিট নোট',
+'credit_note'=>'ক্রেডিট নোট',
+'credit_notes_create'=>'ক্রেডিট নোট তৈরি করুন',
+'credit_notes_manage'=>'ক্রেডিট নোট পরিচালনা করুন',
+'credit_notes_properties'=>'ক্রেডিট নোটের বৈশিষ্ট্য',
+'credit_note_refund'=>'অর্থ ফেরতের ক্রেডিট নোট',
+'notification'=>'প্রজ্ঞাপন',
+'stock_return'=>'স্টক রিটার্ন',
+'stock_returns'=>'স্টক রিটার্নস',
+'stock_return_create'=>'স্টক রিটার্ন তৈরি করুন',
+'stock_return_manage'=>'স্টক রিটার্ন পরিচালনা করুন',
+'stock_return_properties'=>'স্টক রিটার্ন সম্পত্তি',
+'stock_return_refund'=>'রিফান্ড স্টক রিটার্ন',
+'stock_return_customer'=>'স্টক রিটার্ন (গ্রাহক)',
+];

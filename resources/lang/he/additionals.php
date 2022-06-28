@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'שם',
+'value'=>'ערך באחוזים',
+'class'=>'סוג',
+'type1'=>'סוג חישוב 1',
+'type2'=>'סוג חישוב 2',
+'type3'=>'סוג חישוב 3',
+'additionals'=>'מס והנחה',
+'additional'=>'מס והנחה',
+'tax_discount'=>'מס והנחה',
+'discount'=>'הנחה',
+'flat'=>'שטוח',
+'b_flat'=>'שטוח לפני מס',
+'b_per'=>'% לפני מיסים',
+'inclusive'=>'כולל',
+'exclusive'=>'בלעדי',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

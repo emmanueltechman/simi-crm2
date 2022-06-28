@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'verkoop',
+'stock'=>'Voorraadbeheerder',
+'crm'=>'CRM',
+'project_tasks'=>'Project & taken',
+'project_management'=>'Project management',
+'tasks_management'=>'Takenbeheer',
+'promo'=>'Promo Manager',
+'misc'=>'Diversen',
+'calendar'=>'Kalender',
+'reports'=>'Gegevens en rapporten',
+'import'=>'Data importeren',
+'export'=>'Exportgegevens',
+'transactions'=>'Transacties Manager',
+'small'=>'Klein team - 3 gebruikers',
+'mid'=>'Mid Team - 10 gebruikers',
+'big'=>'Big Team - Onbeperkte gebruikers',
+'hrm'=>'HRM',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'קוד מטבע - ISO',
+'symbol'=>'סמל',
+'rate'=>'שער חליפין',
+'rate_info'=>'שער החליפין חייב להיות גדול מ- 0, ברירת מחדל לעזיבה 1',
+'thousand_sep'=>'אלף מפריד',
+'decimal_sep'=>'מפריד עשרוני',
+'precision_point'=>'נקודת דיוק',
+'symbol_position'=>'מיקום הסמל',
+'currencies'=>'מטבעות',
+'currency'=>'מטבע',
+'left'=>'שמאלה',
+'right'=>'ימין',
+'currency_exchange'=>'המרת מטבע',
+'currency_exchange_title'=>'עדכון שערי חליפין אוטומטי',
+'exchange_api'=>'מפתח API של Exchange',
+'base_currency'=>'מטבע המרת בסיס (ISO)',
+'api_end_point'=>'נקודת סיום API',
+'enable_exchange'=>'אפשר Exchange',
+];

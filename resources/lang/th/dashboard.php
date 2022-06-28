@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'แผงควบคุม',
+'today_invoices'=>'ใบแจ้งหนี้วันนี้',
+'month_invoices'=>'ใบแจ้งหนี้เดือนนี้',
+'today_sales'=>'ขายวันนี้',
+'month_sales'=>'ยอดขายเดือนนี้',
+'sales_invoice_graph'=>'การนำเสนอกราฟิกของใบแจ้งหนี้และการขายทำใน 30 วันสุดท้าย',
+'recent_buyers'=>'ผู้ซื้อล่าสุด',
+'today_income'=>'รายได้วันนี้',
+'today_expenses'=>'ค่าใช้จ่ายในวันนี้',
+'today_profit'=>'กำไรวันนี้',
+'today_revenue'=>'รายได้วันนี้',
+'recent_invoices'=>'ใบแจ้งหนี้ล่าสุด',
+'income_vs_expenses'=>'รายรับเทียบกับค่าใช้จ่าย',
+'task_manager'=>'ผู้จัดการงาน',
+'cash_flow'=>'กระแสเงินสด',
+'cash_flow_graph'=>'การนำเสนอกราฟิกของกระแสเงินสดในช่วง 30 วันที่ผ่านมา',
+'recent'=>'เมื่อเร็ว ๆ นี้',
+'stock_alert'=>'แจ้งเตือนสต็อก',
+'recent_transactions'=>'ธุรกรรมล่าสุด',
+];

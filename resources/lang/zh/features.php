@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'销售点',
+'sales'=>'营业额',
+'stock'=>'库存经理',
+'crm'=>'客户关系管理',
+'project_tasks'=>'项目与任务',
+'project_management'=>'项目管理',
+'tasks_management'=>'任务管理',
+'promo'=>'促销经理',
+'misc'=>'杂',
+'calendar'=>'日历',
+'reports'=>'数据与报告',
+'import'=>'汇入资料',
+'export'=>'汇出资料',
+'transactions'=>'交易经理',
+'small'=>'小型小组-3位用户',
+'mid'=>'中队-10位用户',
+'big'=>'大团队-无限用户',
+'hrm'=>'人力资源管理',
+];

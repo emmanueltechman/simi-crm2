@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Código da Moeda - ISO',
+'symbol'=>'Símbolo',
+'rate'=>'Taxa de câmbio',
+'rate_info'=>'A taxa de câmbio deve ser maior que 0; licença padrão 1',
+'thousand_sep'=>'Mil Separador',
+'decimal_sep'=>'Separador decimal',
+'precision_point'=>'Ponto de precisão',
+'symbol_position'=>'Posição do símbolo',
+'currencies'=>'Moedas',
+'currency'=>'Moeda',
+'left'=>'Esquerda',
+'right'=>'Certo',
+'currency_exchange'=>'Câmbio monetário',
+'currency_exchange_title'=>'Atualização automatizada das taxas de câmbio',
+'exchange_api'=>'Chave da API do Exchange',
+'base_currency'=>'Moeda base de conversão (ISO)',
+'api_end_point'=>'Ponto final da API',
+'enable_exchange'=>'Ativar Exchange',
+];

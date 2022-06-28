@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'Naam',
+'value'=>'Waarde in%',
+'class'=>'Type',
+'type1'=>'Berekeningstype 1',
+'type2'=>'Berekeningstype 2',
+'type3'=>'Type berekening 3',
+'additionals'=>'Belasting en korting',
+'additional'=>'Belasting en korting',
+'tax_discount'=>'Belasting en korting',
+'discount'=>'Korting',
+'flat'=>'Vlak',
+'b_flat'=>'Vlak voor belasting',
+'b_per'=>'% Voor belastingen',
+'inclusive'=>'Inclusief',
+'exclusive'=>'Exclusief',
+'cgst'=>'CGST',
+'igst'=>'IGST',
+];

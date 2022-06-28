@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'טיד',
+'invoicedate'=>'תאריך חיוב',
+'invoiceduedate'=>'תאריך להגשה',
+'orders'=>'הזמנות',
+'order'=>'להזמין',
+'general_bills'=>'הצעות חוק כלליות',
+'credit_notes'=>'שטרי אשראי',
+'credit_note'=>'שטר אשראי',
+'credit_notes_create'=>'צור שטר אשראי',
+'credit_notes_manage'=>'נהל שטרי אשראי',
+'credit_notes_properties'=>'נכסי שטר אשראי',
+'credit_note_refund'=>'שטר החזר אשראי',
+'notification'=>'הודעה',
+'stock_return'=>'החזר מלאי',
+'stock_returns'=>'החזר מלאי',
+'stock_return_create'=>'צור החזר מלאי',
+'stock_return_manage'=>'נהל החזר מלאי',
+'stock_return_properties'=>'נכסים להחזרת מלאי',
+'stock_return_refund'=>'החזר מלאי להחזר',
+'stock_return_customer'=>'החזר מלאי (לקוח)',
+];

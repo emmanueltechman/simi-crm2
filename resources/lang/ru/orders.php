@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'TID',
+'invoicedate'=>'Дата выставления счета',
+'invoiceduedate'=>'Срок сдачи',
+'orders'=>'заказы',
+'order'=>'порядок',
+'general_bills'=>'Общие счета',
+'credit_notes'=>'Кредитные записи',
+'credit_note'=>'Кредитная записка',
+'credit_notes_create'=>'Создать кредит-ноту',
+'credit_notes_manage'=>'Управление кредитными нотами',
+'credit_notes_properties'=>'Свойства кредитных нот',
+'credit_note_refund'=>'Возврат Кредитной ноты',
+'notification'=>'уведомление',
+'stock_return'=>'Возврат акций',
+'stock_returns'=>'Возврат акций',
+'stock_return_create'=>'Создать возврат товара',
+'stock_return_manage'=>'Управление возвратом акций',
+'stock_return_properties'=>'Свойства возврата акций',
+'stock_return_refund'=>'Возврат Stock Return',
+'stock_return_customer'=>'Возврат акций (Заказчик)',
+];

@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'កាលបរិច្ឆេទវិក័យប័ត្រ',
+'invoiceduedate'=>'កាលបរិច្ឆេទ​កំណត់',
+'orders'=>'ការបញ្ជាទិញ',
+'order'=>'បញ្ជាទិញ',
+'general_bills'=>'វិក័យប័ត្រទូទៅ',
+'credit_notes'=>'កំណត់សំគាល់ឥណទាន',
+'credit_note'=>'ចំណាំឥណទាន',
+'credit_notes_create'=>'បង្កើតកំណត់សំគាល់ឥណទាន',
+'credit_notes_manage'=>'គ្រប់គ្រងកំណត់ត្រាឥណទាន',
+'credit_notes_properties'=>'លក្ខណៈសម្បត្តិសម្គាល់ឥណទាន',
+'credit_note_refund'=>'កំណត់សំគាល់ឥណទានសងប្រាក់វិញ',
+'notification'=>'ការជូនដំណឹង',
+'stock_return'=>'ភាគហ៊ុនត្រឡប់មកវិញ',
+'stock_returns'=>'ភាគហ៊ុនត្រឡប់មកវិញ',
+'stock_return_create'=>'បង្កើតភាគហ៊ុនត្រឡប់មកវិញ',
+'stock_return_manage'=>'គ្រប់គ្រងភាគហ៊ុនត្រឡប់មកវិញ',
+'stock_return_properties'=>'ទ្រព្យសម្បត្តិត្រឡប់ភាគហ៊ុន',
+'stock_return_refund'=>'ការប្រគល់ប្រាក់វិញភាគហ៊ុន',
+'stock_return_customer'=>'ត្រឡប់ភាគហ៊ុន (អតិថិជន)',
+];

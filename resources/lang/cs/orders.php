@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'uklidit',
+'invoicedate'=>'Datum fakturace',
+'invoiceduedate'=>'Datum splatnosti',
+'orders'=>'Objednávky',
+'order'=>'Objednat',
+'general_bills'=>'Obecné účty',
+'credit_notes'=>'Dobropisy',
+'credit_note'=>'Dobropis',
+'credit_notes_create'=>'Vytvořte dobropis',
+'credit_notes_manage'=>'Správa dobropisů',
+'credit_notes_properties'=>'Vlastnosti dobropisu',
+'credit_note_refund'=>'Vrácení peněz',
+'notification'=>'Oznámení',
+'stock_return'=>'Návrat akcií',
+'stock_returns'=>'Vracení akcií',
+'stock_return_create'=>'Vytvořit návratnost akcií',
+'stock_return_manage'=>'Správa návratnosti akcií',
+'stock_return_properties'=>'Vlastnosti vrácení akcií',
+'stock_return_refund'=>'Vracení zásob',
+'stock_return_customer'=>'Návrat zboží (zákazník)',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Приборная доска',
+'today_invoices'=>'Счета сегодня',
+'month_invoices'=>'Счета за этот месяц',
+'today_sales'=>'Сегодня продажи',
+'month_sales'=>'Продажи в этом месяце',
+'sales_invoice_graph'=>'ГРАФИЧЕСКАЯ ПРЕЗЕНТАЦИЯ СЧЕТОВ И ПРОДАЖ, СОВЕРШЕННЫХ ЗА ПОСЛЕДНИЕ 30 ДНЕЙ',
+'recent_buyers'=>'ПОСЛЕДНИЕ ПОКУПАТЕЛИ',
+'today_income'=>'Доход за сегодня',
+'today_expenses'=>'Сегодняшние расходы',
+'today_profit'=>'Сегодня Прибыль',
+'today_revenue'=>'Доход за сегодня',
+'recent_invoices'=>'ПОСЛЕДНИЕ СЧЕТА',
+'income_vs_expenses'=>'Доход против расходов',
+'task_manager'=>'Диспетчер задач',
+'cash_flow'=>'Поток наличных денег',
+'cash_flow_graph'=>'ГРАФИЧЕСКАЯ ПРЕЗЕНТАЦИЯ CashFlow СДЕЛАНА ЗА ПОСЛЕДНИЕ 30 ДНЕЙ',
+'recent'=>'последний',
+'stock_alert'=>'Оповещение об акциях',
+'recent_transactions'=>'Недавние транзакции',
+];

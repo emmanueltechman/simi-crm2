@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Dashboard',
+'today_invoices'=>'Mga Invoice Ngayon',
+'month_invoices'=>'Ang Mga Buwang Invoice',
+'today_sales'=>'Ngayon Sales',
+'month_sales'=>'Ngayong Benta',
+'sales_invoice_graph'=>'GRAPHICAL PRESENTATION NG INVOICES AND SALES DONE IN LAST 30 DAYS',
+'recent_buyers'=>'RECENT BUYERS',
+'today_income'=>'Ngayon Kita',
+'today_expenses'=>'Ngayon Mga Gastos',
+'today_profit'=>'Ngayon Profit',
+'today_revenue'=>'Ngayon Kita',
+'recent_invoices'=>'RECENT INVOICES',
+'income_vs_expenses'=>'Kita kumpara sa Mga gastos',
+'task_manager'=>'Task manager',
+'cash_flow'=>'Daloy ng Cash',
+'cash_flow_graph'=>'GRAPHICAL PRESENTATION NG CashFlow DONE SA LAHAT NA 30 ARAW',
+'recent'=>'Kamakailan',
+'stock_alert'=>'Alerto ng Stock',
+'recent_transactions'=>'Kamakailang Mga Transaksyon',
+];

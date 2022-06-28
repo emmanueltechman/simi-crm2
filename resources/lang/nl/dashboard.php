@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Dashboard',
+'today_invoices'=>'Vandaag facturen',
+'month_invoices'=>'Deze maand facturen',
+'today_sales'=>'Vandaag verkoop',
+'month_sales'=>'Deze maand verkopen',
+'sales_invoice_graph'=>'GRAFISCHE PRESENTATIE VAN FACTUREN EN VERKOOP IN DE LAATSTE 30 DAGEN',
+'recent_buyers'=>'RECENTE KOPERS',
+'today_income'=>'Inkomen van vandaag',
+'today_expenses'=>'Vandaag kosten',
+'today_profit'=>'Profiteer vandaag',
+'today_revenue'=>'Today Revenue',
+'recent_invoices'=>'RECENTE FACTUREN',
+'income_vs_expenses'=>'Inkomen versus kosten',
+'task_manager'=>'Taakbeheer',
+'cash_flow'=>'Geldstroom',
+'cash_flow_graph'=>'GRAFISCHE PRESENTATIE VAN CashFlow GEDAAN IN LAATSTE 30 DAGEN',
+'recent'=>'Recent',
+'stock_alert'=>'Voorraadwaarschuwing',
+'recent_transactions'=>'recente transacties',
+];

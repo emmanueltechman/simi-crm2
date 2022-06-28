@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'bảng điều khiển',
+'today_invoices'=>'Hóa đơn hôm nay',
+'month_invoices'=>'Hóa đơn tháng này',
+'today_sales'=>'Bán hàng hôm nay',
+'month_sales'=>'Doanh số tháng này',
+'sales_invoice_graph'=>'TRÌNH BÀY HÌNH ẢNH HÓA ĐƠN VÀ BÁN HÀNG TRONG 30 NGÀY',
+'recent_buyers'=>'NGƯỜI MUA GẦN ĐÂY',
+'today_income'=>'Thu nhập hôm nay',
+'today_expenses'=>'Chi phí hôm nay',
+'today_profit'=>'Lợi nhuận hôm nay',
+'today_revenue'=>'Doanh thu hôm nay',
+'recent_invoices'=>'HÓA ĐƠN GẦN ĐÂY',
+'income_vs_expenses'=>'Thu nhập so với chi phí',
+'task_manager'=>'Quản lý công việc',
+'cash_flow'=>'Dòng tiền',
+'cash_flow_graph'=>'TRÌNH BÀY HÌNH ẢNH CỦA CashFlow DONG TRONG 30 NGÀY',
+'recent'=>'Gần đây',
+'stock_alert'=>'Thông báo chứng khoán',
+'recent_transactions'=>'Giao dịch gần đây',
+];

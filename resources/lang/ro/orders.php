@@ -1,0 +1,23 @@
+<?php
+return [
+'tid'=>'tid',
+'invoicedate'=>'Data facturii',
+'invoiceduedate'=>'Data scadentă',
+'orders'=>'Comenzi',
+'order'=>'Ordin',
+'general_bills'=>'Facturi generale',
+'credit_notes'=>'Note de credit',
+'credit_note'=>'Nota de credit',
+'credit_notes_create'=>'Creați notă de credit',
+'credit_notes_manage'=>'Gestionați notele de credit',
+'credit_notes_properties'=>'Proprietăți de notă de credit',
+'credit_note_refund'=>'Nota de credit de rambursare',
+'notification'=>'Notificare',
+'stock_return'=>'Returnare stoc',
+'stock_returns'=>'Returnări ale stocurilor',
+'stock_return_create'=>'Creați rentabilitate stoc',
+'stock_return_manage'=>'Gestionează rentabilitatea stocurilor',
+'stock_return_properties'=>'Proprietăți de returnare a acțiunilor',
+'stock_return_refund'=>'Restituirea stocului de restituire',
+'stock_return_customer'=>'Returnare stoc (client)',
+];

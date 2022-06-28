@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Penjualan',
+'stock'=>'Manajer Saham',
+'crm'=>'CRM',
+'project_tasks'=>'Proyek & Tugas',
+'project_management'=>'Manajemen proyek',
+'tasks_management'=>'Manajemen Tugas',
+'promo'=>'Manajer Promo',
+'misc'=>'Lain-lain',
+'calendar'=>'Kalender',
+'reports'=>'Data & Laporan',
+'import'=>'Impor Data',
+'export'=>'Ekspor Data',
+'transactions'=>'Manajer Transaksi',
+'small'=>'Tim Kecil - 3 Pengguna',
+'mid'=>'Tim Pertengahan - 10 Pengguna',
+'big'=>'Tim Besar - Pengguna Tidak Terbatas',
+'hrm'=>'HRM',
+];

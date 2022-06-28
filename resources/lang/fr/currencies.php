@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'Code de devise - ISO',
+'symbol'=>'symbole',
+'rate'=>'Taux de change',
+'rate_info'=>'Le taux de change doit être supérieur à 0, congé par défaut 1',
+'thousand_sep'=>'Séparateur de milliers',
+'decimal_sep'=>'Séparateur décimal',
+'precision_point'=>'Point de précision',
+'symbol_position'=>'Position du symbole',
+'currencies'=>'Devises',
+'currency'=>'Devise',
+'left'=>'La gauche',
+'right'=>'Droite',
+'currency_exchange'=>'Échange de devises',
+'currency_exchange_title'=>'Mise à jour automatisée des taux de change',
+'exchange_api'=>'Clé API Exchange',
+'base_currency'=>'Devise de conversion de base (ISO)',
+'api_end_point'=>'Point de terminaison API',
+'enable_exchange'=>'Activer Exchange',
+];

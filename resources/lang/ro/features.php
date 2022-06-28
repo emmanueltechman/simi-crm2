@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Vânzări',
+'stock'=>'Director de stoc',
+'crm'=>'CRM',
+'project_tasks'=>'Proiect & sarcini',
+'project_management'=>'Management de proiect',
+'tasks_management'=>'Managementul sarcinilor',
+'promo'=>'Manager Promo',
+'misc'=>'Diverse',
+'calendar'=>'Calendar',
+'reports'=>'Date și rapoarte',
+'import'=>'Importați date',
+'export'=>'Export de date',
+'transactions'=>'Manager de tranzacții',
+'small'=>'Echipa mică - 3 utilizatori',
+'mid'=>'Echipa mijlocie - 10 utilizatori',
+'big'=>'Echipa Mare - Utilizatori nelimitați',
+'hrm'=>'MRU',
+];

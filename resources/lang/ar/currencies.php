@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'رمز العملة - ISO',
+'symbol'=>'رمز',
+'rate'=>'سعر الصرف',
+'rate_info'=>'يجب أن يكون سعر الصرف أكبر من 0 ، الإجازة الافتراضية 1',
+'thousand_sep'=>'الف فاصل',
+'decimal_sep'=>'الفاصل العشري',
+'precision_point'=>'نقطة الدقة',
+'symbol_position'=>'موضع الرمز',
+'currencies'=>'العملات',
+'currency'=>'عملة',
+'left'=>'اليسار',
+'right'=>'حق',
+'currency_exchange'=>'تحويل العملات',
+'currency_exchange_title'=>'التحديث الآلي لأسعار صرف العملات',
+'exchange_api'=>'مفتاح واجهة برمجة تطبيقات Exchange',
+'base_currency'=>'عملة التحويل الأساسية (ISO)',
+'api_end_point'=>'نقطة نهاية API',
+'enable_exchange'=>'تمكين Exchange',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+'pos'=>'POS',
+'sales'=>'Satış',
+'stock'=>'Stok yöneticisi',
+'crm'=>'CRM',
+'project_tasks'=>'Proje ve Görevler',
+'project_management'=>'Proje Yönetimi',
+'tasks_management'=>'Görev Yönetimi',
+'promo'=>'Promosyon Yöneticisi',
+'misc'=>'Çeşitli',
+'calendar'=>'Takvim',
+'reports'=>'Veri ve Raporlar',
+'import'=>'Verileri İçe Aktar',
+'export'=>'Verileri Dışa Aktar',
+'transactions'=>'İşlem Yöneticisi',
+'small'=>'Küçük Takım - 3 Kullanıcı',
+'mid'=>'Orta Takım - 10 Kullanıcı',
+'big'=>'Büyük Takım - Sınırsız Kullanıcı',
+'hrm'=>'HRM',
+];

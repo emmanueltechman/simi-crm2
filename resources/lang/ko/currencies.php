@@ -1,0 +1,21 @@
+<?php
+return [
+'code'=>'통화 코드-ISO',
+'symbol'=>'상징',
+'rate'=>'환율',
+'rate_info'=>'환율은 0보다 커야합니다. 기본 휴가 1',
+'thousand_sep'=>'천 단위 구분자',
+'decimal_sep'=>'소수 구분 기호',
+'precision_point'=>'정밀 점',
+'symbol_position'=>'심볼 위치',
+'currencies'=>'통화',
+'currency'=>'통화',
+'left'=>'왼쪽',
+'right'=>'권리',
+'currency_exchange'=>'환전소',
+'currency_exchange_title'=>'자동 환율 업데이트',
+'exchange_api'=>'교환 API 키',
+'base_currency'=>'기본 전환 통화 (ISO)',
+'api_end_point'=>'API 엔드 포인트',
+'enable_exchange'=>'Exchange 활성화',
+];

@@ -1,0 +1,22 @@
+<?php
+return [
+'dashboard'=>'Dasbor',
+'today_invoices'=>'Faktur hari ini',
+'month_invoices'=>'Faktur Bulan Ini',
+'today_sales'=>'Penjualan Hari Ini',
+'month_sales'=>'Penjualan Bulan Ini',
+'sales_invoice_graph'=>'PRESENTASI GRAFIS DARI INVESTASI DAN PENJUALAN DILAKUKAN DALAM 30 HARI TERAKHIR',
+'recent_buyers'=>'PEMBELI TERBARU',
+'today_income'=>'Penghasilan hari ini',
+'today_expenses'=>'Pengeluaran hari ini',
+'today_profit'=>'Untung hari ini',
+'today_revenue'=>'Pendapatan hari ini',
+'recent_invoices'=>'INVESTASI TERAKHIR',
+'income_vs_expenses'=>'Penghasilan vs Beban',
+'task_manager'=>'Pengelola tugas',
+'cash_flow'=>'Arus kas',
+'cash_flow_graph'=>'PRESENTASI GRAFIS DARI CashFlow DIBUAT DALAM 30 HARI TERAKHIR',
+'recent'=>'Baru',
+'stock_alert'=>'Peringatan Stok',
+'recent_transactions'=>'transaksi terkini',
+];

@@ -1,0 +1,20 @@
+<?php
+return [
+'name'=>'Tên',
+'value'=>'Giá trị tính theo%',
+'class'=>'Kiểu',
+'type1'=>'Kiểu tính toán 1',
+'type2'=>'Kiểu tính toán 2',
+'type3'=>'Kiểu tính toán3',
+'additionals'=>'Thuế và chiết khấu',
+'additional'=>'Thuế và chiết khấu',
+'tax_discount'=>'Thuế và chiết khấu',
+'discount'=>'Giảm giá',
+'flat'=>'Bằng phẳng',
+'b_flat'=>'Căn hộ trước thuế',
+'b_per'=>'% Trước thuế',
+'inclusive'=>'Bao gồm',
+'exclusive'=>'Độc quyền',
+'cgst'=>'CGST',
+'igst'=>'BẮT ĐẦU',
+];
